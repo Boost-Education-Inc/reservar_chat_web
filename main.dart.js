@@ -72548,7 +72548,7 @@ A.mg.prototype={
 ai(){return new A.yt(A.HY(),A.avP(null),A.b([],t.s),B.k)}}
 A.yt.prototype={
 aI(){this.r=A.atd(A.jX("wss://iwf6v3ddzc.execute-api.us-east-2.amazonaws.com/test/",0,null),null)
-this.Et("Hola, hoy es "+new A.eY(Date.now(),!1).k(0),null)
+this.Et("Hola, debes considerar que hoy es "+new A.eY(Date.now(),!1).k(0),null)
 this.aW()},
 N(a){var s=this,r=null,q=t.F,p=A.di(r,A.tM(A.b([new A.e6(B.cP,r,r,A.eL("\ud83d\udcac Centro Oriente",r,r,r,A.Sk().$3$color$fontSize$fontWeight(B.i,40,B.aH),B.a9,r),r),A.di(r,new A.e6(B.h4,r,r,A.eL("Power with AI \ud83e\udd16",r,r,r,A.Sk().$2$color$fontSize(B.i,16),B.a9,r),r),B.r,r,r,r,new A.aB(0,10,0,0),r,r)],q),B.bS,B.bH),B.r,r,r,r,r,r,1/0),o=s.r
 o===$&&A.a()
