@@ -72557,7 +72557,7 @@ o===$&&A.a()
 o=o.b
 o===$&&A.a()
 return new A.wH(A.xk(B.e5,A.b([A.di(r,new A.e6(B.a3,r,r,A.di(r,A.tM(A.b([p,A.uq(A.di(r,new A.xn(new A.a7s(s),new A.dK(o,A.m(o).j("dK<1>")),r,t.wu),B.r,r,new A.cU(B.hl,r,r,B.jT,r,r,B.aG),r,new A.aB(0,10,0,10),r,1/0),1),A.di(r,A.a2i(A.b([A.uq(A.di(r,new A.EP(s.e,B.r5,"Type something...",!0,s.ga0t(),r),B.r,r,r,60,r,r,r),1),A.di(r,new A.Ec(new A.a7t(s),r,r,r,r,B.r,r,!1,r,!0,A.oK(A.aji(B.Ba,B.l),r,r),r),B.r,r,r,60,r,new A.aB(10,0,0,0),100)],q),B.bH),B.r,r,r,80,r,new A.aB(0,10,0,0),1/0)],q),B.bS,B.bH),B.r,r,r,r,new A.aB(0,30,0,30),new A.aB(0,10,0,0),800),r),B.r,B.l,r,r,r,r,r)],q),B.am,B.dT),r)},
-Et(a,b){var s,r=a==null?this.e.a.a:a,q=t.N,p=A.az(["action","askReservasAssistant","content",A.az(["message",r],q,q)],q,t.z)
+Et(a,b){var s,r=a==null?this.e.a.a:a,q=t.N,p=A.az(["action","AskAssistant","content",A.az(["message",r,"assistant_id","asst_vkrUkUf63NHBl0txlnmqCkHC"],q,q)],q,t.z)
 if(b!=null)J.h1(p.h(0,"content"),"thread_id",b)
 r=this.r
 r===$&&A.a()
